@@ -17,7 +17,7 @@ Impossible is only a matter of time.
 - 🔭 I’m currently working on React.JS
 - 🌱 Learning Vue and mastering my UI/UX skills!
 - 🐱‍👤Studying Russian in my free time
-- 📫 How to reach me: denisls02@outlook.com
+- 📫 How to reach me: stilldenis@outlook.com
 - ✨ Fun facts: I love music more than anything, so i learned guitar 🎸 and composing poems
 
 <div>

@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   languages = ["Typescript", "Java", "Node.JS", "Javascript","HTML","CSS","Python", "C#", "PHP" ];
-  databases = ["MySQL", "Postgres", "Supabase", "Firebase", "H2", "MongoDB];
+  databases = ["MySQL", "Postgres", "Supabase", "Firebase", "H2", "MongoDB"];
   libraries = ["React", "Express", "Tailwind"];
   frameworks = ["Next.JS", "Springboot", "Vite" ];
 }

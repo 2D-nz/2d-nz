@@ -1,7 +1,4 @@
-<div align=center>
-  
-  <img src="https://i.pinimg.com/736x/e5/c2/5f/e5c25f52ed318b6a73a6e04ac4f13ff3.jpg" >
-</div>
+
   
 ### <p align = center> ˖─── ⋆⋅ ♰ ⋅⋆ ───
 <table align=center>

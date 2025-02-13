@@ -37,7 +37,7 @@ const mySkills = {
    
    <br/>
    <br/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2D-nz&layout=compact&langs_count=16&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diointhegit&layout=compact&langs_count=16&theme=midnight-purple"/>
  </div>
 
 
